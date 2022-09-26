@@ -1,0 +1,120 @@
+body {
+background-color: lightgrey;
+
+}
+
+.fondo {
+width: 500px;
+height: 300px;
+background: white;
+margin: 50px;
+display: inline-block;
+float: right;
+
+}
+
+#chile { background-color: grey; }
+
+.franja1 { width: 170px; 
+	height: 140px;
+	background-color: #270de0;
+
+}
+.franja2 { width: 330px; 
+	height: 140px;
+	background-color: white;
+	margin-top: -140px;
+	margin-bottom: 0px;
+	margin-left: 170px;
+	margin-right: 0px;
+
+}
+
+.franja3 {width: 500px; 
+	height: 180px;
+	background-color: red;
+	margin-top: 0px;
+
+}
+
+.simb {
+height: 100px;
+width: 150px;
+position: absolute;
+margin-left: 10px;
+margin-top: 20px;
+
+}
+
+.fondo1 { width: 500px;
+height: 300px;
+background: white;
+margin: 50px;
+display: inline-block;
+float: right;
+
+}
+
+#japon {background-color: pink; }
+
+.franja5 { 
+width: 500px; 
+	height: 300px;
+	background-color: white;
+	margin-top: 0px;
+
+ }
+
+ .simb2 { 
+height: 200px;
+width: 300px;
+position: absolute;
+margin-left: 100px;
+margin-top: 50px;
+  }
+
+.fondo3 { width: 500px;
+height: 300px;
+background: blue;
+margin: 50px;
+display: inline-block;
+float: right;
+margin-left: -10px;
+
+}
+
+#suecia { background-color: lightblue; }
+
+.franja6 { 
+width: 500px; 
+	height: 300px;
+	background-color: #006AA7;
+	margin-top: 0px;
+
+ }
+
+.franja7 {
+	width: 500px; 
+	height: 60px;
+	background-color: #FECC00;
+	margin-top: -180px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+
+.franja8 { 
+width: 60px; 
+	height: 300px;
+	background-color: #FECC00;
+	margin-top: -180px;
+	margin-bottom: 0px;
+	margin-left: 140px;
+	margin-right: 0px;
+
+
+
+ }
+
+
